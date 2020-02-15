@@ -1,0 +1,1 @@
+![The Maurer Rose Fractal](../maurer-rose.png)
